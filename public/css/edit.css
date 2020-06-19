@@ -1,0 +1,67 @@
+@charset "utf-8";
+/* CSS Document */
+
+.header{
+	padding:5px 0px 5px 15px;
+	border-bottom:#CCC solid 1px;
+}
+
+.judul{
+	color:#333;
+	text-align:left;
+	padding:5px 0px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+}
+	
+
+/*=== Button Log Out ===*/
+.admin{
+	color:#FFF;
+	text-decoration:none;
+	padding:10px 15px;
+	margin:5px 10px;
+	background-color:#00CC00;
+	border-radius:8px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+}
+
+	.admin:hover{
+		color:#FFF;
+		text-decoration:none;
+		background-color:#009900;
+	}
+	
+/*-- Info --*/
+.info{
+	height:auto;
+	color:#000;
+	padding:10px 0px;
+	margin:0px;
+	background-color:#EBEBEB;
+}
+
+/*-- Box Input Data --*/
+.box{
+	height:auto;
+	width:auto;
+	padding:10px 25px;
+	margin:8px 15px;
+	color:#000;
+	border-radius:10px;
+	background-color:#FFF;
+	font-family:serif;
+
+}
+	h4{
+		padding:5px 0px 15px 0px;
+		margin:20px -10px;
+	}
+	
+/*=== Text Bawah ===*/
+.text{
+	color:#525252;
+	padding:10px 15px;
+	margin:10px 15px;
+	font-size:16px;
+	font-family:Verdana, Geneva, sans-serif;
+}
